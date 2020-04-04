@@ -1,0 +1,17 @@
+{
+  "name": "quartet-schema-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addTabs.js",
+  "dependencies": {
+    "prettier": "^2.0.2",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
